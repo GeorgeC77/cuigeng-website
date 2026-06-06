@@ -1,4 +1,1 @@
-node_modules/
-src/dist/
-src/node_modules/
-_tmp_dist/
+*.zip
