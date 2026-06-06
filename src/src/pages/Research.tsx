@@ -479,7 +479,7 @@ export default function Research() {
             >
               <div className="overflow-hidden" style={{ height: '280px' }}>
                 <img
-                  src="/research/Research_direction1.png"
+                  src="./research/Research_direction1.png"
                   alt={
                     lang === 'zh'
                       ? '深度强化学习驱动的供应链管理'
@@ -514,7 +514,7 @@ export default function Research() {
             >
               <div className="overflow-hidden" style={{ height: '280px' }}>
                 <img
-                  src="/research/Research_direction2.png"
+                  src="./research/Research_direction2.png"
                   alt={
                     lang === 'zh'
                       ? '供应链协调与牛鞭效应抑制'
